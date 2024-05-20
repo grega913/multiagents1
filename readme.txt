@@ -16,6 +16,6 @@ The workflow:
 2. Content Writing
 3. Editing and refinement
 
-UNderstanding the Components
+Understanding the Components
 1. CrewAI 
 2. Groq  - API key is defined in .env file
