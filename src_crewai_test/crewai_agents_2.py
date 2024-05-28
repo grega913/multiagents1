@@ -6,8 +6,6 @@ from crewai_tools import SerperDevTool
 groq_api_key = os.environ.get('GROQ_API_KEY')
 serper_api_key = os.environ.get('SERPER_API_KEY')
 
-#os.environ["SERPER_API_KEY"] = 'a13f459d75dd2f4e7793f28fa9d41d7ff1a59e86'
-
 
 search_tool = SerperDevTool()
 
