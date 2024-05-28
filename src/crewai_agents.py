@@ -5,7 +5,7 @@ import os
 
 groq_api_key = os.environ.get('GROQ_API_KEY')
 
-llm=ChatGroq(temperature=0,
+llm = ChatGroq(temperature=0,
              model_name="llama3-70b-8192",
              api_key=groq_api_key)
 

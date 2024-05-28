@@ -22,7 +22,7 @@ write = Task(
         "1. Use the content plan to craft a compelling "
             "blog post on {topic}.\n"
         "2. Incorporate SEO keywords naturally.\n"
-  "3. Sections/Subtitles are properly named "
+        "3. Sections/Subtitles are properly named "
             "in an engaging manner.\n"
         "4. Ensure the post is structured with an "
             "engaging introduction, insightful body, "
